@@ -39,7 +39,7 @@
     "@uppy/drag-drop": "^0.26.0",
     "@uppy/react": "^0.26.0",
     "@uppy/tus": "^0.26.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.7.4",
     "body-parser": "^1.15.0",
     "type": "^3.0.0",
